@@ -48,13 +48,13 @@
 
 
 <!-- VIDEOS -->
-[true-calling]: https://github.com/HelviraG/conferences.resources/tree/main/silent_figures/sections/VideoAssets.md#true-calling
-[ted-autism-wrong]: https://github.com/HelviraG/conferences.resources/tree/main/silent_figures/sections/VideoAssets.md#ted-autism-wrong
-[diagnosis-invite]: https://github.com/HelviraG/conferences.resources/tree/main/silent_figures/sections/VideoAssets.md#diagnosis-invite
-[be-normal]: https://github.com/HelviraG/conferences.resources/tree/main/silent_figures/sections/VideoAssets.md#be-normal
-[being-human]: https://github.com/HelviraG/conferences.resources/tree/main/silent_figures/sections/VideoAssets.md#being-huan
-[worlds-minds]: https://github.com/HelviraG/conferences.resources/tree/main/silent_figures/sections/VideoAssets.md#worlds-minds
-[feels-autistic]: https://github.com/HelviraG/conferences.resources/tree/main/silent_figures/sections/VideoAssets.md#feels-autistic
+[true-calling]: https://github.com/HelviraG/conferences.resources/tree/main/silent_figures/sections/VideoAssets.md
+[ted-autism-wrong]: https://github.com/HelviraG/conferences.resources/tree/main/silent_figures/sections/VideoAssets.md
+[diagnosis-invite]: https://github.com/HelviraG/conferences.resources/tree/main/silent_figures/sections/VideoAssets.md
+[be-normal]: https://github.com/HelviraG/conferences.resources/tree/main/silent_figures/sections/VideoAssets.md
+[being-human]: https://github.com/HelviraG/conferences.resources/tree/main/silent_figures/sections/VideoAssets.md
+[worlds-minds]: https://github.com/HelviraG/conferences.resources/tree/main/silent_figures/sections/VideoAssets.md
+[feels-autistic]: https://github.com/HelviraG/conferences.resources/tree/main/silent_figures/sections/VideoAssets.md
 [video-assets]: https://github.com/HelviraG/conferences.resources/tree/main/silent_figures/sections/VideoAssets.md#video-assets
 
 

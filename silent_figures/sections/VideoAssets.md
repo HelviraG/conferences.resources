@@ -34,35 +34,30 @@
   <!-- VIDEO ASSETS -->
   ### 🍿 Video Assets
 
-  <br />
-
-  <!-- TABLE OF CONTENTS -->
-  #### Table of Contents
-
   <ol style="list-style-type: none; margin-top: 40px;">
     <li style="margin-top: 8px">
-    <a href="#true-calling" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 Working in Tech with Autism | Katherine's story</a>
+    <a href="[true-calling]" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 Working in Tech with Autism | Katherine's story</a>
     </li>
     <li style="margin-top: 10px">
-    <a href="#competitive-advantage" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 Autism: How to be normal (and why not to be)</a>
+    <a href="[tbe-normal]" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 Autism: How to be normal (and why not to be)</a>
     </li>
     <li style="margin-top: 10px">
-    <a href="#competitive-advantage" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 Why an autism diagnosis is an invitation to finally be yourself</a>
+    <a href="[diagnosis-invite]" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 Why an autism diagnosis is an invitation to finally be yourself</a>
     </li>
     <li style="margin-top: 10px">
-    <a href="#competitive-advantage" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 Why everything you know about autism is wrong</a>
+    <a href="[ted-autism-wrong]" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 Why everything you know about autism is wrong</a>
     </li>
     <li style="margin-top: 10px">
-    <a href="#competitive-advantage" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 What being autistic taught me about being human</a>
+    <a href="[being-human]" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 What being autistic taught me about being human</a>
     </li>
     <li style="margin-top: 10px">
-    <a href="#competitive-advantage" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 My inner life with Asperger's</a>
+    <a href="[inner-life]" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 My inner life with Asperger's</a>
     </li>
     <li style="margin-top: 10px">
-    <a href="#competitive-advantage" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 The world needs all kinds of minds</a>
+    <a href="[world-minds]" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 The world needs all kinds of minds</a>
     </li>
     <li style="margin-top: 10px">
-    <a href="#competitive-advantage" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 What it feels like to be autistic</a>
+    <a href="[feels-autistic]" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 What it feels like to be autistic</a>
     </li>
   </ol>
   <br />
