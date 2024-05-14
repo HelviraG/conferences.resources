@@ -3,7 +3,6 @@
 [dennis-ritchie]: https://www.wired.com/2011/10/dennis-ritchie/
 [mark-zuckerberg]: https://fr.wikipedia.org/wiki/Mark_Zuckerberg
 
-
 <!-- RESOURCES COVER -->
 <div style="background-color: #F6F3FF; padding: 20px">
 <p align="center" style="margin-top: -15px">
@@ -44,11 +43,11 @@
           <a href="#midjourney-images" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">👾 Midjourney Images</a>
         </summary>
         <ul style="list-style-type: none; margin-top: 6px">
-          <li><a href="#planet-image" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">📍 Planet Zepharia</a></li>
-          <li style="margin-top: 2px"><a href="#zepharians" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">📍 The Zepharians</a></li>
-          <li style="margin-top: 2px"><a href="#jcon-spaceship" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">📍 JCON Spaceship</a></li>
+          <li><a href="#planet-zepharia" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">📍 Planet Zepharia</a></li>
+          <li style="margin-top: 2px"><a href="#the-zepharians" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">📍 The Zepharians</a></li>
+          <li style="margin-top: 2px"><a href="#the-oss-2024-jcon-spaceship" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">📍 JCON Spaceship</a></li>
           <li style="margin-top: 2px"><a href="#scuba-diving" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">📍 Scuba Diving</a></li>
-          <li style="margin-top: 2px"><a href="#book-forest" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">📍 A Book and a Forest</a></li>
+          <li style="margin-top: 2px"><a href="#a-book-and-a-forest" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">📍 A Book and a Forest</a></li>
           <li style="margin-top: 2px"><a href="#autistic-people" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">📍 Autistic People</a></li>
         </ul>
         </details>
@@ -77,7 +76,7 @@
 
   <br />
 
-  ##### Planet Zepharia {#planet_image}
+  ##### Planet Zepharia
 
   ```sh
     Script: A purple planet seen from space realistic photoshoot colored
@@ -181,8 +180,7 @@
   <br />
 
 
-  ##### The Zepharians {#zepharians}
-
+  ##### The Zepharians
 
   ```sh
     Purple skin man and woman on uniform from a planet where the population descent from the XMen character: Mystic with long white hair and white eyes portrayed realistic photoshoot colored vibrant filters
@@ -247,7 +245,6 @@
   </div>
   <br />
 
-
   ```sh
     A man standing side by side next to a woman with white purplish long hair
     # Job ID: af121745-d082-40de-a9ed-6aa13db8895b
@@ -258,9 +255,7 @@
   </div>
   <br />
 
-
-  ##### The OSS JCON 2024 spcaship {#jcon-spaceship}
-
+  ##### The OSS JCON 2024 spcaship
 
   ```sh
     A bioluminescent spaceship with it's name appearing on the side of the spaceshiop saying "JCON 2024", on orbital mode around a purple planet visible in the background
@@ -272,7 +267,7 @@
   </div>
   <br />
 
-  ##### Scuba diving {#scuba-diving}
+  ##### Scuba diving
 
   ```sh
     Script: A man scuba diving in a ocean where fishes 
@@ -295,7 +290,7 @@
   </div>
   <br />
 
-  ##### Story of a Book and a Forest {#book-forest}
+  ##### Story of a Book and a Forest
 
   ```sh
     Script: A closeup Book wide open on a 3d scenery of a young girl, with short dark hair, holding a lantern in the middle of a forest, profile angle, vibrant pink purple color palette
@@ -317,8 +312,7 @@
   </div>
   <br />
 
-  ##### Autistic People from Midjourney's perspective {#autistic-people}
-
+  ##### Autistic People from Midjourney's perspective
 
   ```sh
     Someone on earth who is on the autism spectrum disorder
