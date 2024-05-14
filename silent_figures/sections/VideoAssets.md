@@ -19,11 +19,14 @@
   <p align="center">
     All you can binge 🤓!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">Website</a>
+    <br />
+    <a href="https://helvirag.github.io" style="padding: 6px 12px; color: black" onmouseover="this.style.color='purple'; this.style.fontWeight=''" onmouseleave="this.style.color='black'">🌐 Website</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Linkedin</a>
+    <a href="https://linkedin.com/helvira-dev" style="padding: 6px 12px; color: black" onmouseover="this.style.color='purple';fontSize=''" onmouseleave="this.style.color='black'; this.style.fontWeight='normal'; fontSize='12px'"><img src="../assets/images/linkedin.png" width="15px"/> Linkedin</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Twitter/X</a>
+    <a href="https://twitter.com/helvira_g" style="padding: 6px 12px; color: black" onmouseover="this.style.color='purple';" onmouseleave="this.style.color='black'">Twitter/X</a>
+    ·
+    <a href="https://www.buymeacoffee.com/helvira" style="padding: 6px 12px; color: black" onmouseover="this.style.color='purple';" onmouseleave="this.style.color='black'">🥤 Buy me a coffee</a>
   </p>
 
   <br />

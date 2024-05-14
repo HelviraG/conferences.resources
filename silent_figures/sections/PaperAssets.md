@@ -21,11 +21,14 @@
   <p align="center">
     All you can read 🧐!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">Website</a>
+    <br />
+    <a href="https://helvirag.github.io" style="padding: 6px 12px; color: black" onmouseover="this.style.color='purple'; this.style.fontWeight=''" onmouseleave="this.style.color='black'">🌐 Website</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Linkedin</a>
+    <a href="https://linkedin.com/helvira-dev" style="padding: 6px 12px; color: black" onmouseover="this.style.color='purple';fontSize=''" onmouseleave="this.style.color='black'; this.style.fontWeight='normal'; fontSize='12px'"><img src="../assets/images/linkedin.png" width="15px"/> Linkedin</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Twitter/X</a>
+    <a href="https://twitter.com/helvira_g" style="padding: 6px 12px; color: black" onmouseover="this.style.color='purple';" onmouseleave="this.style.color='black'">Twitter/X</a>
+    ·
+    <a href="https://www.buymeacoffee.com/helvira" style="padding: 6px 12px; color: black" onmouseover="this.style.color='purple';" onmouseleave="this.style.color='black'">🥤 Buy me a coffee</a>
   </p>
 
   <br />
@@ -119,8 +122,41 @@
   <h6>Abstract:</h6>
   <p style="font-size: 12px; font-style: italic; text-align: justify">
   Individuals with autism spectrum disorder (ASD), including those who otherwise require less support, face severe difficulties in everyday social interactions. Research in this area has primarily focused on identifying the cognitive and neurological differences that contribute to these social impairments, but social interaction by definition involves more than one person and social difficulties may arise not just from people with ASD themselves, but also from the perceptions, judgments, and social decisions made by those around them. Here, across three studies, we find that first impressions of individuals with ASD made from thin slices of real-world social behavior by typically-developing observers are not only far less favorable across a range of trait judgments compared to controls, but also are associated with reduced intentions to pursue social interaction. These patterns are remarkably robust, occur within seconds, do not change with increased exposure, and persist across both child and adult age groups. However, these biases disappear when impressions are based on conversational content lacking audio-visual cues, suggesting that style, not substance, drives negative impressions of ASD. Collectively, these findings advocate for a broader perspective of social difficulties in ASD that considers both the individual’s impairments and the biases of potential social partners.  </p>
-  
-   
+   <blockquote style="border: none; border-radius: 6px; padding: 10px">
+    <div style="max-width: 70%; margin: 0 auto">
+      <p style="font-size: 10px; font-weight: 700">Figure 1. Group effects on each modality. Groups only did significantly differ on the transcript of Speech Content. </p>
+      <img src="../assets/images/articles/neurotypic_peers_fig_4.webp" />
+    </div>
+  </blockquote>  
+  <blockquote style="border: none; border-radius: 6px; padding: 10px">
+    <div style="max-width: 70%; margin: 0 auto">
+      <p style="font-size: 10px; font-weight: 700">Figure 2. Group effects on each item. ASD group is rated significantly less favorable on every item except Live Near, Trustworthy, and Smart. </p>
+      <img src="../assets/images/articles/neurotypic_peers_fig_1.webp" />
+    </div>
+  </blockquote>  
+<div style="margin-top: 10px"></div> 
+
+ <blockquote style="border: none; border-radius: 6px; padding: 10px">
+  <div style="max-width: 70%; margin: 0 auto">
+    <p style="font-size: 10px; font-weight: 700">Figure 1. Group effects on each modality. Groups only did not significantly differ on the transcript of Speech Content. </p>
+    <img src="../assets/images/articles/neurotypic_peers_fig_4.webp" />
+  </div>
+  </blockquote>  
+
+ <blockquote style="border: none; border-radius: 6px; padding: 10px">
+  <div style="max-width: 70%; margin: 0 auto">
+    <p style="font-size: 10px; font-weight: 700">Figure 3. Individuals with ASD (red) are immediately judged more negatively than TD controls (blue) in each of the three rating categories. </p>
+    <img src="../assets/images/articles/neurotypic_peers_fig_2.webp" />
+  </div>
+  </blockquote> 
+
+  <div style="margin-top: 10px"></div> 
+  <blockquote style="border: none; border-radius: 6px; padding: 10px">
+    <div style="max-width: 70%; margin: 0 auto">
+      <p style="font-size: 10px; font-weight: 700">Figure 5. Ratings for ASD stimulus participants (red) are all significantly less favorable than for TD controls (blue). All ps < 0.001.</p>
+      <img src="../assets/images/articles/neurotypic_peers_fig_3.webp" />
+    </div>
+  </blockquote> 
 <div style="margin-top: 40px"></div>
 
   ###### 📰 Neurodiversity as a Competitive Advantage - Why you should embrace it in your workforce  {#competitive-advantage}

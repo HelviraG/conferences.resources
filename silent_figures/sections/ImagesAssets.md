@@ -15,11 +15,14 @@
   <p align="center">
     All the images resources you've seen 😉!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">Website</a>
+    <br />
+    <a href="https://helvirag.github.io" style="padding: 6px 12px; color: black" onmouseover="this.style.color='purple'; this.style.fontWeight=''" onmouseleave="this.style.color='black'">🌐 Website</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Linkedin</a>
+    <a href="https://linkedin.com/helvira-dev" style="padding: 6px 12px; color: black" onmouseover="this.style.color='purple';fontSize=''" onmouseleave="this.style.color='black'; this.style.fontWeight='normal'; fontSize='12px'"><img src="../assets/images/linkedin.png" width="15px"/> Linkedin</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Twitter/X</a>
+    <a href="https://twitter.com/helvira_g" style="padding: 6px 12px; color: black" onmouseover="this.style.color='purple';" onmouseleave="this.style.color='black'">Twitter/X</a>
+    ·
+    <a href="https://www.buymeacoffee.com/helvira" style="padding: 6px 12px; color: black" onmouseover="this.style.color='purple';" onmouseleave="this.style.color='black'">🥤 Buy me a coffee</a>
   </p>
 
   <br />
@@ -412,7 +415,7 @@
   ```
   <p align="center"><span style="font-size: 12px;">Click on the image to view the original source</span></p>
 
-  ![Dennis Ritchie](../assets/images/external/mark_zuckerberg.jpg) [mark-zuckerberg]
+  ![Mark Zuckerberg](../assets/images/external/mark_zuckerberg.jpg) [mark-zuckerberg]
 
 <br />
 
@@ -425,7 +428,7 @@
   Credits: PARAMOUNT TELEVISION / KOBAL / AFP
   ```
 
-  ![Dennis Ritchie](../assets/images/external/captain_spoke.webp)
+  ![Captain Spoke](../assets/images/external/captain_spoke.webp)
 
 <br />
 
@@ -435,7 +438,7 @@
   Desc: Tina Gif Danse
   ```
 
-  ![Dennis Ritchie](../assets/images/external/tina_bobs_burger.gif)
+  ![Tina Belcher](../assets/images/external/tina_bobs_burger.gif)
 
 
 </div>

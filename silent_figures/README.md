@@ -71,13 +71,13 @@
     All the resources you need to go further and beyond after the conference 😉!
     <br />
     <br />
-    <a href="https://helvirag.github.io" style="padding: 6px 12px; border: 1px solid black; border-radius: 20px">🌐 Website</a>
+    <a href="https://helvirag.github.io" style="padding: 6px 12px; color: black" onmouseover="this.style.color='purple'; this.style.fontWeight=''" onmouseleave="this.style.color='black'">🌐 Website</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues" style="padding: 6px 12px; border: 1px solid black; border-radius: 20px"><img src="./assets/images/linkedin.png" width="15px"/> Linkedin</a>
+    <a href="https://linkedin.com/helvira-dev" style="padding: 6px 12px; color: black" onmouseover="this.style.color='purple';fontSize=''" onmouseleave="this.style.color='black'; this.style.fontWeight='normal'; fontSize='12px'"><img src="./assets/images/linkedin.png" width="15px"/> Linkedin</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues" style="padding: 6px 12px; border: 1px solid black; border-radius: 20px">Twitter/X</a>
+    <a href="https://twitter.com/helvira_g" style="padding: 6px 12px; color: black" onmouseover="this.style.color='purple';" onmouseleave="this.style.color='black'">Twitter/X</a>
     ·
-    <a href="https://www.buymeacoffee.com/helvira" style="padding: 6px 12px; border: 1px solid black; border-radius: 20px">🥤 Buy me a coffee</a>
+    <a href="https://www.buymeacoffee.com/helvira" style="padding: 6px 12px; color: black" onmouseover="this.style.color='purple';" onmouseleave="this.style.color='black'">🥤 Buy me a coffee</a>
   </p>
 
   <br />
@@ -247,4 +247,85 @@
     </li>
   </ol>
   <br />
+  <br />
+
+
+ #### 💽 Presentation Slides
+
+<img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek (1).png" alt="Logo" />
+
+<img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek (2).png" alt="Logo" />
+
+<img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek (3).png" alt="Logo" />
+
+<img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek (4).png" alt="Logo" />
+
+<img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek (5).png" alt="Logo" />
+
+<img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek (6).png" alt="Logo" />
+
+<img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek (7).png" alt="Logo" />
+
+<img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek (8).png" alt="Logo" />
+
+<img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek (9).png" alt="Logo" />
+
+<img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek (10).png" alt="Logo" />
+
+<img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek (11).png" alt="Logo" />
+
+<img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek (12).png" alt="Logo" />
+
+<img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek (13).png" alt="Logo" />
+
+<img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek (14).png" alt="Logo" />
+
+<img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek (15).png" alt="Logo" />
+
+<img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek (16).png" alt="Logo" />
+
+<img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek (17).png" alt="Logo" />
+
+<img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek (18).png" alt="Logo" />
+
+<img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek (19).png" alt="Logo" />
+
+<img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek (20).png" alt="Logo" />
+
+<img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek (21).png" alt="Logo" />
+
+<img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek (22).png" alt="Logo" />
+
+<img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek (23).png" alt="Logo" />
+
+<img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek (24).png" alt="Logo" />
+
+<img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek (25).png" alt="Logo" />
+
+<img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek (26).png" alt="Logo" />
+
+<img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek (27).png" alt="Logo" />
+
+<img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek (28).png" alt="Logo" />
+
+<img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek (29).png" alt="Logo" />
+
+<img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek (30).png" alt="Logo" />
+
+<img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek (31).png" alt="Logo" />
+
+<img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek (32).png" alt="Logo" />
+
+<img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek (33).png" alt="Logo" />
+
+<img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek (34).png" alt="Logo" />
+
+<img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek (35).png" alt="Logo" />
+
+<img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek (36).png" alt="Logo" />
+
+<img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek (37).png" alt="Logo" />
+
+<img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek (38).png" alt="Logo" />
+
 </div>
