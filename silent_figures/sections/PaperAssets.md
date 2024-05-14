@@ -43,40 +43,40 @@
 
   <ol style="list-style-type: none; margin-top: 40px;">
     <li style="margin-top: 8px">
-    <a href="#live-extreme" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 ‘I live in extremes’: A qualitative investigation of Autistic adults’ experiences of inertial rest and motion</a>
+    <a href="https://github.com/HelviraG/conferences.resources/tree/main/silent_figures/sections/PaperAssets.md#live-extreme" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 ‘I live in extremes’: A qualitative investigation of Autistic adults’ experiences of inertial rest and motion</a>
     </li>
     <li style="margin-top: 10px">
-    <a href="#interact-judgement" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 Neurotypical Peers are Less Willing to Interact with Those with Autism based on Thin Slice Judgments</a>
+    <a href="https://github.com/HelviraG/conferences.resources/tree/main/silent_figures/sections/PaperAssets.md#interact-judgement" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 Neurotypical Peers are Less Willing to Interact with Those with Autism based on Thin Slice Judgments</a>
     </li>
     <li style="margin-top: 10px">
-    <a href="#competitive-advantage" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 Neurodiversity as a Competitive Advantage - Why you should embrace it in your workforce</a>
+    <a href="https://github.com/HelviraG/conferences.resources/tree/main/silent_figures/sections/PaperAssets.md#competitive-advantage" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 Neurodiversity as a Competitive Advantage - Why you should embrace it in your workforce</a>
     </li>
     <li style="margin-top: 10px">
-    <a href="#perspective-futur" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 Employees With Autism Spectrum Disorders in the Digitized Work Environment: Perspectives for the Future</a>
+    <a href="https://github.com/HelviraG/conferences.resources/tree/main/silent_figures/sections/PaperAssets.md#perspective-futur" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 Employees With Autism Spectrum Disorders in the Digitized Work Environment: Perspectives for the Future</a>
     </li>
     <li style="margin-top: 10px">
-    <a href="#autism-workforce" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 Autism in the workforce: A case study</a>
+    <a href="https://github.com/HelviraG/conferences.resources/tree/main/silent_figures/sections/PaperAssets.md#autism-workforce" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 Autism in the workforce: A case study</a>
     </li>
     <li style="margin-top: 10px">
-    <a href="#redefine-talents" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 It’s Not Just About Attention to Details: Redefining the Talents Autistic Software Developers Bring to Software Development</a>
+    <a href="https://github.com/HelviraG/conferences.resources/tree/main/silent_figures/sections/PaperAssets.md#redefine-talents" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 It’s Not Just About Attention to Details: Redefining the Talents Autistic Software Developers Bring to Software Development</a>
     </li>
     <li style="margin-top: 10px">
-    <a href="#what-works" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 Autism and employment: What works</a>
+    <a href="https://github.com/HelviraG/conferences.resources/tree/main/silent_figures/sections/PaperAssets.md#what-works" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 Autism and employment: What works</a>
     </li>
     <li style="margin-top: 10px">
-    <a href="#autistic-myths" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 Dispelling some myths about the autistic wunderkind programmer</a>
+    <a href="https://github.com/HelviraG/conferences.resources/tree/main/silent_figures/sections/PaperAssets.md#autistic-myths" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 Dispelling some myths about the autistic wunderkind programmer</a>
     </li>
     <li style="margin-top: 10px">
-    <a href="#challenges-faced" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 Understanding the Challenges Faced by Neurodiverse Software Engineering Employees: Towards a More Inclusive and Productive Technical Workforce</a>
+    <a href="https://github.com/HelviraG/conferences.resources/tree/main/silent_figures/sections/PaperAssets.md#challenges-faced" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 Understanding the Challenges Faced by Neurodiverse Software Engineering Employees: Towards a More Inclusive and Productive Technical Workforce</a>
     </li>
     <li style="margin-top: 10px">
-    <a href="#autism-workplace" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 Autism in the Workplace: The Benefits of Autistic Talent in Tech</a>
+    <a href="https://github.com/HelviraG/conferences.resources/tree/main/silent_figures/sections/PaperAssets.md#autism-workplace" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 Autism in the Workplace: The Benefits of Autistic Talent in Tech</a>
     </li>
 </ol>
 
   <br />
   
-  ###### 📰 ‘I live in extremes’: A qualitative investigation of Autistic adults’ experiences of inertial rest and motion {#live-extreme}
+  ###### 📰 ‘I live in extremes’: A qualitative investigation of Autistic adults’ experiences of inertial rest and motion    {#live-extreme}
   <table>
     <tbody>
       <tr align="left">
