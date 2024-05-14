@@ -43,40 +43,41 @@
 
   <ol style="list-style-type: none; margin-top: 40px;">
     <li style="margin-top: 8px">
-    <a href="https://github.com/HelviraG/conferences.resources/tree/main/silent_figures/sections/PaperAssets.md#live-extreme" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 ‘I live in extremes’: A qualitative investigation of Autistic adults’ experiences of inertial rest and motion</a>
+    <a href="https://github.com/HelviraG/conferences.resources/blob/main/silent_figures/sections/PaperAssets.md#-i-live-in-extremes-a-qualitative-investigation-of-autistic-adults-experiences-of-inertial-rest-and-motion" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 ‘I live in extremes’: A qualitative investigation of Autistic adults’ experiences of inertial rest and motion</a>
     </li>
     <li style="margin-top: 10px">
-    <a href="https://github.com/HelviraG/conferences.resources/tree/main/silent_figures/sections/PaperAssets.md#interact-judgement" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 Neurotypical Peers are Less Willing to Interact with Those with Autism based on Thin Slice Judgments</a>
+    <a href="https://github.com/HelviraG/conferences.resources/blob/main/silent_figures/sections/PaperAssets.md#-neurotypical-peers-are-less-willing-to-interact-with-those-with-autism-based-on-thin-slice-judgments-interact-judgement" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 Neurotypical Peers are Less Willing to Interact with Those with Autism based on Thin Slice Judgments</a>
     </li>
     <li style="margin-top: 10px">
-    <a href="https://github.com/HelviraG/conferences.resources/tree/main/silent_figures/sections/PaperAssets.md#competitive-advantage" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 Neurodiversity as a Competitive Advantage - Why you should embrace it in your workforce</a>
+    <a href="https://github.com/HelviraG/conferences.resources/blob/main/silent_figures/sections/PaperAssets.md#-neurodiversity-as-a-competitive-advantage---why-you-should-embrace-it-in-your-workforce--competitive-advantage" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 Neurodiversity as a Competitive Advantage - Why you should embrace it in your workforce</a>
     </li>
     <li style="margin-top: 10px">
-    <a href="https://github.com/HelviraG/conferences.resources/tree/main/silent_figures/sections/PaperAssets.md#perspective-futur" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 Employees With Autism Spectrum Disorders in the Digitized Work Environment: Perspectives for the Future</a>
+    <a href="https://github.com/HelviraG/conferences.resources/blob/main/silent_figures/sections/PaperAssets.md#-employees-with-autism-spectrum-disorders-in-the-digitized-work-environment-perspectives-for-the-future--perspective-futur" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 Employees With Autism Spectrum Disorders in the Digitized Work Environment: Perspectives for the Future</a>
     </li>
     <li style="margin-top: 10px">
-    <a href="https://github.com/HelviraG/conferences.resources/tree/main/silent_figures/sections/PaperAssets.md#autism-workforce" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 Autism in the workforce: A case study</a>
+    <a href="https://github.com/HelviraG/conferences.resources/blob/main/silent_figures/sections/PaperAssets.md#-autism-in-the-workforce-a-case-study--autism-workforce" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 Autism in the workforce: A case study</a>
     </li>
     <li style="margin-top: 10px">
-    <a href="https://github.com/HelviraG/conferences.resources/tree/main/silent_figures/sections/PaperAssets.md#redefine-talents" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 It’s Not Just About Attention to Details: Redefining the Talents Autistic Software Developers Bring to Software Development</a>
+    <a href="https://github.com/HelviraG/conferences.resources/blob/main/silent_figures/sections/PaperAssets.md#-its-not-just-about-attention-to-details-redefining-the-talents-autistic-software-developers-bring-to-software-development-redefine-talents" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 It’s Not Just About Attention to Details: Redefining the Talents Autistic Software Developers Bring to Software Development</a>
     </li>
     <li style="margin-top: 10px">
-    <a href="https://github.com/HelviraG/conferences.resources/tree/main/silent_figures/sections/PaperAssets.md#what-works" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 Autism and employment: What works</a>
+    <a href="https://github.com/HelviraG/conferences.resources/blob/main/silent_figures/sections/PaperAssets.md#-autism-and-employment-what-works-what-works" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 Autism and employment: What works</a>
     </li>
     <li style="margin-top: 10px">
-    <a href="https://github.com/HelviraG/conferences.resources/tree/main/silent_figures/sections/PaperAssets.md#autistic-myths" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 Dispelling some myths about the autistic wunderkind programmer</a>
+    <a href="https://github.com/HelviraG/conferences.resources/blob/main/silent_figures/sections/PaperAssets.md#-dispelling-some-myths-about-the-autistic-wunderkind-programmer-autistic-myths" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 Dispelling some myths about the autistic wunderkind programmer</a>
     </li>
     <li style="margin-top: 10px">
-    <a href="https://github.com/HelviraG/conferences.resources/tree/main/silent_figures/sections/PaperAssets.md#challenges-faced" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 Understanding the Challenges Faced by Neurodiverse Software Engineering Employees: Towards a More Inclusive and Productive Technical Workforce</a>
+    <a href="https://github.com/HelviraG/conferences.resources/blob/main/silent_figures/sections/PaperAssets.md#-understanding-the-challenges-faced-by-neurodiverse-software-engineering-employees-towards-a-more-inclusive-and-productive-technical-workforce--challenges-faced" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 Understanding the Challenges Faced by Neurodiverse Software Engineering Employees: Towards a More Inclusive and Productive Technical Workforce</a>
     </li>
     <li style="margin-top: 10px">
-    <a href="https://github.com/HelviraG/conferences.resources/tree/main/silent_figures/sections/PaperAssets.md#autism-workplace" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 Autism in the Workplace: The Benefits of Autistic Talent in Tech</a>
+    <a href="https://github.com/HelviraG/conferences.resources/blob/main/silent_figures/sections/PaperAssets.md#-autism-in-the-workplace-the-benefits-of-autistic-talent-in-tech-autism-workplace" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 Autism in the Workplace: The Benefits of Autistic Talent in Tech</a>
     </li>
 </ol>
 
   <br />
   
-  ###### 📰 ‘I live in extremes’: A qualitative investigation of Autistic adults’ experiences of inertial rest and motion{#live-extreme}
+  ###### 📰 ‘I live in extremes’: A qualitative investigation of Autistic adults’ experiences of inertial rest and motion
+  
   <table>
     <tbody>
       <tr align="left">
@@ -104,7 +105,8 @@
   </blockquote>
   <div style="margin-top: 40px"></div>
 
-  ###### 📰 Neurotypical Peers are Less Willing to Interact with Those with Autism based on Thin Slice Judgments {#interact-judgement}
+  ###### 📰 Neurotypical Peers are Less Willing to Interact with Those with Autism based on Thin Slice Judgments 
+
   <table>
     <tbody>
       <tr align="left">
@@ -159,7 +161,8 @@
   </blockquote> 
 <div style="margin-top: 40px"></div>
 
-  ###### 📰 Neurodiversity as a Competitive Advantage - Why you should embrace it in your workforce  {#competitive-advantage}
+  ###### 📰 Neurodiversity as a Competitive Advantage - Why you should embrace it in your workforce  
+
   <table>
     <tbody>
       <tr align="left">
@@ -177,7 +180,7 @@
   
   <div style="margin-top: 40px"></div>
 
-###### 📰 Employees With Autism Spectrum Disorders in the Digitized Work Environment: Perspectives for the Future  {#perspective-futur}
+###### 📰 Employees With Autism Spectrum Disorders in the Digitized Work Environment: Perspectives for the Future  
 
   <table>
     <tbody>
@@ -200,7 +203,7 @@
   
   <div style="margin-top: 40px"></div>
 
-###### 📰 Autism in the workforce: A case study  {#autism-workforce}
+###### 📰 Autism in the workforce: A case study  
 
   <table>
     <tbody>
@@ -223,7 +226,7 @@
   
   <div style="margin-top: 40px"></div>
   
-###### 📰 It’s Not Just About Attention to Details: Redefining the Talents Autistic Software Developers Bring to Software Development {#redefine-talents}
+###### 📰 It’s Not Just About Attention to Details: Redefining the Talents Autistic Software Developers Bring to Software Development
 
   <table>
     <tbody>
@@ -246,7 +249,7 @@
   
   <div style="margin-top: 40px"></div>
    
-###### 📰 Autism and employment: What works {#what-works}
+###### 📰 Autism and employment: What works
 
   <table>
     <tbody>
@@ -270,7 +273,7 @@
   <div style="margin-top: 40px"></div>
 
    
-###### 📰 Dispelling some myths about the autistic wunderkind programmer {#autistic-myths}
+###### 📰 Dispelling some myths about the autistic wunderkind programmer
 
   <table>
     <tbody>
@@ -293,7 +296,7 @@
   
   <div style="margin-top: 40px"></div>
 
-  ###### 📰 Autism in the Workplace: The Benefits of Autistic Talent in Tech {#autism-workplace}
+  ###### 📰 Autism in the Workplace: The Benefits of Autistic Talent in Tech
 
   <table>
     <tbody>
@@ -313,7 +316,7 @@
   <div style="margin-top: 40px"></div>
 
   
-  ###### 📰 Understanding the Challenges Faced by Neurodiverse Software Engineering Employees: Towards a More Inclusive and Productive Technical Workforce  {#challenges-faced}
+  ###### 📰 Understanding the Challenges Faced by Neurodiverse Software Engineering Employees: Towards a More Inclusive and Productive Technical Workforce 
 
   <table>
     <tbody>

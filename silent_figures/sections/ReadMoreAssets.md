@@ -80,9 +80,10 @@
 
   <br />
 
-  #### 🔎 More to read {#read-more}
+  #### 🔎 More to read
 
-  ###### 📰 “No Way Out Except From External Intervention”: First-Hand Accounts of Autistic Inertia {#no-way}
+  ###### 📰 “No Way Out Except From External Intervention”: First-Hand Accounts of Autistic Inertia
+
   <table>
     <tbody>
       <tr align="left">
@@ -99,7 +100,8 @@
   </p>
   <br />
  
-  ###### 📰 On our own terms: Emerging autistic culture {#own-term}
+  ###### 📰 On our own terms: Emerging autistic culture 
+
   <table>
     <tbody>
       <tr align="left">
@@ -113,7 +115,8 @@
 
 <br />
 
-  ###### 📰 Developing Employment Environments Where Individuals with ASD Thrive: Using Machine Learning to Explore Employer Policies and Practices {#machine-learning}
+  ###### 📰 Developing Employment Environments Where Individuals with ASD Thrive: Using Machine Learning to Explore Employer Policies and Practices
+
   <table>
     <tbody>
       <tr align="left">
@@ -148,7 +151,7 @@
   
   <div style="margin-top: 40px"></div>
 
-###### 📰  Software Developers and Asperger's Syndrome {#coding-horror}
+###### 📰  Software Developers and Asperger's Syndrome
 
   <table>
     <tbody>
@@ -168,7 +171,7 @@
   <div style="margin-top: 40px"></div>
 
   
-###### 📰 Microsoft Inclusive Hiring And Accessibility Boss Neil Barnett Talks Embracing Neurodiverse Workers, New Neurodiversity Career Connector Tool {#neil-barnett-talk}
+###### 📰 Microsoft Inclusive Hiring And Accessibility Boss Neil Barnett Talks Embracing Neurodiverse Workers, New Neurodiversity Career Connector Tool
 
   <table>
     <tbody>
@@ -187,7 +190,7 @@
   
   <div style="margin-top: 40px"></div>
    
-###### 📰 Programming, A Great Hobby for an Autistic Child{#autistic-child}
+###### 📰 Programming, A Great Hobby for an Autistic Child
 
   <table>
     <tbody>
@@ -207,7 +210,7 @@
   <div style="margin-top: 40px"></div>
 
     
-###### 📰 Famous computer geniuses with Asperger's{#computer-genius}
+###### 📰 Famous computer geniuses with Asperger's
 
   <table>
     <tbody>
@@ -227,7 +230,7 @@
   <div style="margin-top: 40px"></div>
 
     
-###### 📰 The Potential Genius of Aspergers{#potential-genius}
+###### 📰 The Potential Genius of Aspergers
 
   <table>
     <tbody>
@@ -247,7 +250,7 @@
   <div style="margin-top: 40px"></div>
 
     
-###### 📰 Famous people with high functioning autism{#famous-autism}
+###### 📰 Famous people with high functioning autism
 
   <table>
     <tbody>
@@ -267,7 +270,7 @@
   <div style="margin-top: 40px"></div>
 
     
-###### 📰 Famous autistic people {#famous-autistic}
+###### 📰 Famous autistic people
 
   <table>
     <tbody>
