@@ -76,7 +76,7 @@
 
   <br />
   
-  ###### 📰 ‘I live in extremes’: A qualitative investigation of Autistic adults’ experiences of inertial rest and motion    {#live-extreme}
+  ###### 📰 ‘I live in extremes’: A qualitative investigation of Autistic adults’ experiences of inertial rest and motion{#live-extreme}
   <table>
     <tbody>
       <tr align="left">
