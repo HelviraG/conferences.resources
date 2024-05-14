@@ -90,7 +90,7 @@
       <!-- SCIENTIFIC PRESS SECTION -->
       <details>
         <summary>
-          <a href="paper-assets" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">📰 Paper Assets</a>
+          <a href="#paper-assets" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">📰 Paper Assets</a>
         </summary>
           <ul style="list-style-type: none">
             <!-- USED DURING PRESENTATION SECTION -->
