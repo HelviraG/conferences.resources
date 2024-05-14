@@ -47,8 +47,8 @@
           <li style="margin-top: 2px"><a href="#the-zepharians" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">📍 The Zepharians</a></li>
           <li style="margin-top: 2px"><a href="#the-oss-2024-jcon-spaceship" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">📍 JCON Spaceship</a></li>
           <li style="margin-top: 2px"><a href="#scuba-diving" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">📍 Scuba Diving</a></li>
-          <li style="margin-top: 2px"><a href="#a-book-and-a-forest" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">📍 A Book and a Forest</a></li>
-          <li style="margin-top: 2px"><a href="#autistic-people" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">📍 Autistic People</a></li>
+          <li style="margin-top: 2px"><a href="#story-of-a-book-and-a-forest" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">📍 A Book and a Forest</a></li>
+          <li style="margin-top: 2px"><a href="#autistic-people-from-midjourneys-perspective" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">📍 Autistic People</a></li>
         </ul>
         </details>
     </li>
@@ -255,7 +255,7 @@
   </div>
   <br />
 
-  ##### The OSS JCON 2024 spcaship
+  ##### The OSS JCON 2024 spaceship
 
   ```sh
     A bioluminescent spaceship with it's name appearing on the side of the spaceshiop saying "JCON 2024", on orbital mode around a purple planet visible in the background
