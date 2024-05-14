@@ -90,23 +90,23 @@
       <!-- SCIENTIFIC PRESS SECTION -->
       <details>
         <summary>
-          <a href="#paper-assets" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">📰 Paper Assets</a>
+          <a href="[paper-assets]" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">📰 Paper Assets</a>
         </summary>
           <ul style="list-style-type: none">
             <!-- USED DURING PRESENTATION SECTION -->
             <details style="margin-top: 20px">
             <summary>
-              <a href="paper-assets" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">Seen through the presentation</a>
+              <a href="[paper-assets]" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">Seen through the presentation</a>
             </summary>
             <ul style="list-style-type: none">
               <li style="margin-top: 10px">
-                <a href="interact-judgement" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 Neurotypical Peers are Less Willing to Interact with Those with Autism based on Thin Slice Judgments</a>
+                <a href="[interact-judgement]" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 Neurotypical Peers are Less Willing to Interact with Those with Autism based on Thin Slice Judgments</a>
               </li>
               <li style="margin-top: 10px">
-                <a href="competitive-advantage" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 Neurodiversity as a Competitive Advantage - Why you should embrace it in your workforce</a>
+                <a href="[competitive-advantage]" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 Neurodiversity as a Competitive Advantage - Why you should embrace it in your workforce</a>
               </li>
               <li style="margin-top: 10px">
-                <a href="#perspective-futur" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 Employees With Autism Spectrum Disorders in the Digitized Work Environment: Perspectives for the Future</a>
+                <a href="[perspective-futur]" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 Employees With Autism Spectrum Disorders in the Digitized Work Environment: Perspectives for the Future</a>
               </li>
               <li style="margin-top: 10px">
                 <a href="#autism-workforce" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 Autism in the workforce: A case study</a>
