@@ -10,14 +10,31 @@
     All the resources you need to go further and beyond after the conference 😉!
     <br />
     <br />
-    <a href="https://helvirag.github.io" style="padding: 6px 12px; color: black" onmouseover="this.style.color='purple'; this.style.fontWeight=''" onmouseleave="this.style.color='black'">🌐 Website</a>
-    ·
-    <a href="https://linkedin.com/helvira-dev" style="padding: 6px 12px; color: black" onmouseover="this.style.color='purple';fontSize=''" onmouseleave="this.style.color='black'; this.style.fontWeight='normal'; fontSize='12px'"><img src="./assets/images/linkedin.png" width="15px"/> Linkedin</a>
-    ·
-    <a href="https://twitter.com/helvira_g" style="padding: 6px 12px; color: black" onmouseover="this.style.color='purple';" onmouseleave="this.style.color='black'">Twitter/X</a>
-    ·
-    <a href="https://www.buymeacoffee.com/helvira" style="padding: 6px 12px; color: black" onmouseover="this.style.color='purple';" onmouseleave="this.style.color='black'">🥤 Buy me a coffee</a>
   </p>
+
+  <svg fill="none" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <style>
+          a {
+            color: "black";
+            padding: 6px 12px;
+          };
+          a:hover {
+            color: "purple",
+            font-weight: 700,
+          }
+        </style>
+        <a href="https://helvirag.github.io">🌐 Website</a>
+        ·
+        <a href="https://linkedin.com/helvira-dev"><img src="./assets/images/linkedin.png" width="15px"/> Linkedin</a>
+        ·
+        <a href="https://twitter.com/helvira_g">Twitter/X</a>
+        ·
+        <a href="https://www.buymeacoffee.com/helvira">🥤 Buy me a coffee</a>
+      </div>
+    </foreignObject>
+  </svg>
 
   <br />
 
@@ -191,80 +208,6 @@
 
  #### 💽 Presentation Slides
 
-<img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek (1).png" alt="Logo" />
-
-<img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek (2).png" alt="Logo" />
-
-<img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek (3).png" alt="Logo" />
-
-<img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek (4).png" alt="Logo" />
-
-<img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek (5).png" alt="Logo" />
-
-<img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek (6).png" alt="Logo" />
-
-<img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek (7).png" alt="Logo" />
-
-<img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek (8).png" alt="Logo" />
-
-<img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek (9).png" alt="Logo" />
-
-<img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek (10).png" alt="Logo" />
-
-<img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek (11).png" alt="Logo" />
-
-<img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek (12).png" alt="Logo" />
-
-<img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek (13).png" alt="Logo" />
-
-<img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek (14).png" alt="Logo" />
-
-<img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek (15).png" alt="Logo" />
-
-<img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek (16).png" alt="Logo" />
-
-<img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek (17).png" alt="Logo" />
-
-<img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek (18).png" alt="Logo" />
-
-<img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek (19).png" alt="Logo" />
-
-<img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek (20).png" alt="Logo" />
-
-<img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek (21).png" alt="Logo" />
-
-<img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek (22).png" alt="Logo" />
-
-<img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek (23).png" alt="Logo" />
-
-<img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek (24).png" alt="Logo" />
-
-<img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek (25).png" alt="Logo" />
-
-<img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek (26).png" alt="Logo" />
-
-<img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek (27).png" alt="Logo" />
-
-<img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek (28).png" alt="Logo" />
-
-<img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek (29).png" alt="Logo" />
-
-<img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek (30).png" alt="Logo" />
-
-<img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek (31).png" alt="Logo" />
-
-<img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek (32).png" alt="Logo" />
-
-<img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek (33).png" alt="Logo" />
-
-<img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek (34).png" alt="Logo" />
-
-<img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek (35).png" alt="Logo" />
-
-<img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek (36).png" alt="Logo" />
-
-<img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek (37).png" alt="Logo" />
-
-<img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek (38).png" alt="Logo" />
+<iframe src="https://od.lk/s/MzRfMzUzMjI5NzFf/Silent%20Figures%20the%20hidden%20history%20of%20autistics%20in%20Tech%20%286%29.pdf#toolbar=0&view=fit" width="100%" height="1080px"></iframe>
 
 </div>
