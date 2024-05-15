@@ -1,5 +1,13 @@
 <!-- RESOURCES COVER -->
-<div style="background-color: #F6F3FF; padding: 20px">
+<style>
+  .markdown-body {
+    a {
+      color: "pink"
+    }
+  }
+</style>
+
+<div style="background-color: #F6F3FF; padding: 20px" class="markdown-body">
 <p align="center" style="margin-top: -15px">
   <a href="https://github.com/HelviraG/resources.silent-figures">
     <img style="border-radius: 8px" src="assets/images/silent-figures_cover.png" alt="Silent Figures cover" />
