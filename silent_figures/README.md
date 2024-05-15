@@ -12,31 +12,8 @@
     <br />
   </p>
 
-  <svg fill="none" xmlns="http://www.w3.org/2000/svg">
-    <foreignObject width="100%" height="100%">
-      <div xmlns="http://www.w3.org/1999/xhtml">
-        <style>
-          a {
-            color: "black";
-            padding: 6px 12px;
-          };
-          a:hover {
-            color: "purple",
-            font-weight: 700,
-          }
-        </style>
-        <div>
-          <a href="https://helvirag.github.io">🌐 Website</a>
-          ·
-          <a href="https://linkedin.com/helvira-dev"><img src="./assets/images/linkedin.png" width="15px"/> Linkedin</a>
-          ·
-          <a href="https://twitter.com/helvira_g">Twitter/X</a>
-          ·
-          <a href="https://www.buymeacoffee.com/helvira">🥤 Buy me a coffee</a>
-        </div>
-      </div>
-    </foreignObject>
-  </svg>
+  <img src="./sections/LinksSvg.svg" style="width: 100%" />
+  
 
   <br />
 
