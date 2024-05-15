@@ -25,13 +25,15 @@
             font-weight: 700,
           }
         </style>
-        <a href="https://helvirag.github.io">🌐 Website</a>
-        ·
-        <a href="https://linkedin.com/helvira-dev"><img src="./assets/images/linkedin.png" width="15px"/> Linkedin</a>
-        ·
-        <a href="https://twitter.com/helvira_g">Twitter/X</a>
-        ·
-        <a href="https://www.buymeacoffee.com/helvira">🥤 Buy me a coffee</a>
+        <div>
+          <a href="https://helvirag.github.io">🌐 Website</a>
+          ·
+          <a href="https://linkedin.com/helvira-dev"><img src="./assets/images/linkedin.png" width="15px"/> Linkedin</a>
+          ·
+          <a href="https://twitter.com/helvira_g">Twitter/X</a>
+          ·
+          <a href="https://www.buymeacoffee.com/helvira">🥤 Buy me a coffee</a>
+        </div>
       </div>
     </foreignObject>
   </svg>
