@@ -1,11 +1,4 @@
 <!-- RESOURCES COVER -->
-<style>
-  .markdown-body {
-    a {
-      color: "pink"
-    }
-  }
-</style>
 
 <div style="background-color: #F6F3FF; padding: 20px" class="markdown-body">
 <p align="center" style="margin-top: -15px">
