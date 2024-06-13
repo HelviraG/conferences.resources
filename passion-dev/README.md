@@ -5,6 +5,7 @@
 [wide-open]: https://journals.aom.org/doi/10.5465/amj.2017.1421
 [dualistic-model]: https://link.springer.com/chapter/10.1007/978-981-287-630-0_3
 
+
 <div style="background-color: #F6F3FF; padding: 20px" class="markdown-body">
 <p align="center" style="margin-top: -15px">
   <a href="https://github.com/HelviraG/resources.dev-passion">
