@@ -1,25 +1,18 @@
 <!-- RESOURCES COVER -->
-[divergence-employee]: https://www.sciencedirect.com/science/article/abs/pii/S0191308522000132
-[contemporary-exploitation]: https://gwern.net/doc/economics/2020-kim-2.pdf
-[sport-meta]: https://www.researchgate.net/publication/281651689_The_Relationship_Between_Deliberate_Practice_and_Performance_in_Sports_A_Meta-Analysis
-[wide-open]: https://journals.aom.org/doi/10.5465/amj.2017.1421
-[dualistic-model]: https://link.springer.com/chapter/10.1007/978-981-287-630-0_3
-
-
 <div style="background-color: #F6F3FF; padding: 20px" class="markdown-body">
-<p align="center" style="margin-top: -15px">
+<p style="margin-top: -15px">
   <a href="https://github.com/HelviraG/resources.dev-passion">
     <img style="border-radius: 8px" src="assets/images/dev_passion_cover.png" alt="Dev Passion cover" />
   </a>
 </p>
 
-  <p align="center">
+  <p>
     All the resources you need to go further and beyond after the conference 😉!
     <br />
     <br />
     <a href="https://helvira.dev" style="padding: 6px 12px; color: black" onmouseover="this.style.color='purple'; this.style.fontWeight=''" onmouseleave="this.style.color='black'">🌐 Website</a>
     ·
-    <a href="https://linkedin.com/helvira-dev" style="padding: 6px 12px; color: black" onmouseover="this.style.color='purple';fontSize=''" onmouseleave="this.style.color='black'; this.style.fontWeight='normal'; fontSize='12px'"><img src="./assets/images/linkedin.png" width="15px"/> Linkedin</a>
+    <a href="https://linkedin.com/helvira-dev" style="padding: 6px 12px; color: black" onmouseover="this.style.color='purple';fontSize=''" onmouseleave="this.style.color='black'; this.style.fontWeight='normal'; fontSize='12px'"><img src="./assets/images/linkedin.png" width="15px" alt="linkedin logo"/> Linkedin</a>
     ·
     <a href="https://twitter.com/helvira_g" style="padding: 6px 12px; color: black" onmouseover="this.style.color='purple';" onmouseleave="this.style.color='black'">Twitter/X</a>
     ·
@@ -109,10 +102,10 @@
 
 <table>
     <tbody>
-      <tr align="left">
+      <tr>
         <td style="border: none"><p style="font-size: 14px">Authors: Jon M. Jachimowicz & Hannah Weisman </p></td>
-        <td width="20%" style="border: none; vertical-align: center">
-          <a href="[divergence-employee]" style="color: white; background-color: #ff4757; border: 1px solid #ff4757; padding: 6px; border-radius: 10px" 
+        <td style="border: none; vertical-align: center">
+          <a href="https://www.sciencedirect.com/science/article/abs/pii/S0191308522000132" style="color: white; background-color: #ff4757; border: 1px solid #ff4757; padding: 6px; border-radius: 10px" 
             onmouseover="this.style.fontWeight='500';this.style.border='1px solid #ffa502';this.style.color='white';this.style.backgroundColor='#ffa502';" 
             onmouseout="this.style.fontWeight='';this.style.color='white';this.style.backgroundColor='#ff4757';this.style.borderColor='#ff4757'">
             Read 👀
@@ -130,10 +123,10 @@ There is an increasingly prevalent expectation in contemporary society that empl
 
   <table>
     <tbody>
-      <tr align="left">
+      <tr>
         <td style="border: none"><p style="font-size: 14px">Authors: Jae Yun Kim, Troy H. Campbell, Steven Shepherd & Aaron C. Kay</p></td>
-        <td width="20%" style="border: none; vertical-align: center">
-          <a href="[contemporary-exploitation]" style="color: white; background-color: #ff4757; border: 1px solid #ff4757; padding: 6px; border-radius: 10px" 
+        <td style="border: none; vertical-align: center">
+          <a href="https://gwern.net/doc/economics/2020-kim-2.pdf" style="color: white; background-color: #ff4757; border: 1px solid #ff4757; padding: 6px; border-radius: 10px" 
             onmouseover="this.style.fontWeight='500';this.style.border='1px solid #ffa502';this.style.color='white';this.style.backgroundColor='#ffa502';" 
             onmouseout="this.style.fontWeight='';this.style.color='white';this.style.backgroundColor='#ff4757';this.style.borderColor='#ff4757'">
             Read 👀
@@ -163,10 +156,10 @@ positive attribute to assume in others, it can also license poor and exploitativ
 
   <table>
     <tbody>
-      <tr align="left">
+      <tr>
         <td style="border: none"><p style="font-size: 14px">Authors: Brooke N Macnamara, David Moreau & Hambrick</p></td>
-        <td width="20%" style="border: none; vertical-align: center">
-          <a href="[sport-meta]" style="color: white; background-color: #ff4757; border: 1px solid #ff4757; padding: 6px; border-radius: 10px" 
+        <td style="border: none; vertical-align: center">
+          <a href="https://www.researchgate.net/publication/281651689_The_Relationship_Between_Deliberate_Practice_and_Performance_in_Sports_A_Meta-Analysis" style="color: white; background-color: #ff4757; border: 1px solid #ff4757; padding: 6px; border-radius: 10px" 
             onmouseover="this.style.fontWeight='500';this.style.border='1px solid #ffa502';this.style.color='white';this.style.backgroundColor='#ffa502';" 
             onmouseout="this.style.fontWeight='';this.style.color='white';this.style.backgroundColor='#ff4757';this.style.borderColor='#ff4757'">
             Read 👀
@@ -186,10 +179,10 @@ positive attribute to assume in others, it can also license poor and exploitativ
 
   <table>
     <tbody>
-      <tr align="left">
+      <tr>
         <td style="border: none"><p style="font-size: 14px">Authors: Ephrat Livne-Ofer, Jacqueline A-M. Coyle-Shapiro & Jone L. Pearce</p></td>
-        <td width="20%" style="border: none; vertical-align: center">
-          <a href="[wide-open]" style="color: white; background-color: #ff4757; border: 1px solid #ff4757; padding: 6px; border-radius: 10px" 
+        <td style="border: none; vertical-align: center">
+          <a href="https://journals.aom.org/doi/10.5465/amj.2017.1421" style="color: white; background-color: #ff4757; border: 1px solid #ff4757; padding: 6px; border-radius: 10px" 
             onmouseover="this.style.fontWeight='500';this.style.border='1px solid #ffa502';this.style.color='white';this.style.backgroundColor='#ffa502';" 
             onmouseout="this.style.fontWeight='';this.style.color='white';this.style.backgroundColor='#ff4757';this.style.borderColor='#ff4757'">
             Read 👀
@@ -207,10 +200,10 @@ Drawing on the array of literature on exploitation from several social science d
 
   <table>
     <tbody>
-      <tr align="left">
+      <tr>
         <td style="border: none"><p style="font-size: 14px">Authors: Robert J. Vallerand</p></td>
-        <td width="20%" style="border: none; vertical-align: center">
-          <a href="[dualistic-model]" style="color: white; background-color: #ff4757; border: 1px solid #ff4757; padding: 6px; border-radius: 10px" 
+        <td style="border: none; vertical-align: center">
+          <a href="https://link.springer.com/chapter/10.1007/978-981-287-630-0_3" style="color: white; background-color: #ff4757; border: 1px solid #ff4757; padding: 6px; border-radius: 10px" 
             onmouseover="this.style.fontWeight='500';this.style.border='1px solid #ffa502';this.style.color='white';this.style.backgroundColor='#ffa502';" 
             onmouseout="this.style.fontWeight='';this.style.color='white';this.style.backgroundColor='#ff4757';this.style.borderColor='#ff4757'">
             Read 👀
@@ -239,7 +232,7 @@ Using the Dualistic Model of Passion (Vallerand, On passion for life activities:
     # seed --3176156740  
   ```
   <div style="max-width: 70%; margin: 0 auto">
-    <img src="./assets/images/midjourney/planet_valhalla.png" />
+    <img src="./assets/images/midjourney/planet_valhalla.png" alt="planet valhalla" />
   </div>
 
   ```sh
@@ -248,7 +241,7 @@ Using the Dualistic Model of Passion (Vallerand, On passion for life activities:
     # seed --843992840  
   ```
   <div style="max-width: 70%; margin: 0 auto">
-    <img src="./assets/images/midjourney/valhalla_planet_1.png" />
+    <img src="./assets/images/midjourney/valhalla_planet_1.png" alt="planet valhalla" />
   </div>
 
   ```sh
@@ -257,7 +250,7 @@ Using the Dualistic Model of Passion (Vallerand, On passion for life activities:
     # seed --3227382508  
   ```
   <div style="max-width: 70%; margin: 0 auto">
-    <img src="./assets/images/midjourney/valhalla_planet_map.png" />
+    <img src="./assets/images/midjourney/valhalla_planet_map.png" alt="planet valhalla map" />
   </div>
 </details>
 
@@ -274,7 +267,7 @@ Using the Dualistic Model of Passion (Vallerand, On passion for life activities:
     # seed --44516796  
   ```
   <div style="max-width: 70%; margin: 0 auto">
-    <img src="./assets/images/midjourney/fire_viking_queen.png" />
+    <img src="./assets/images/midjourney/fire_viking_queen.png" alt="flamesgaard queen" />
   </div>
 
   ```sh
@@ -283,7 +276,7 @@ Using the Dualistic Model of Passion (Vallerand, On passion for life activities:
     # seed --877073640  
   ```
   <div style="max-width: 70%; margin: 0 auto">
-    <img src="./assets/images/midjourney/viking_prez_cover.png" />
+    <img src="./assets/images/midjourney/viking_prez_cover.png" alt="flamesgaard citizen" />
   </div>
 
   ```sh
@@ -292,7 +285,7 @@ Using the Dualistic Model of Passion (Vallerand, On passion for life activities:
     # seed --877073640  
   ```
   <div style="max-width: 70%; margin: 0 auto">
-    <img src="./assets/images/midjourney/fire_viking_citizen_1.png" />
+    <img src="./assets/images/midjourney/fire_viking_citizen_1.png" alt="flamesgaard citizen" />
   </div>
 
   ```sh
@@ -301,7 +294,7 @@ Using the Dualistic Model of Passion (Vallerand, On passion for life activities:
     # seed --877073640  
   ```
   <div style="max-width: 70%; margin: 0 auto">
-    <img src="./assets/images/midjourney/fire_viking_citizen_2.png" />
+    <img src="./assets/images/midjourney/fire_viking_citizen_2.png" alt="flamesgaard citizen" />
   </div>
 
   ```sh
@@ -310,7 +303,7 @@ Using the Dualistic Model of Passion (Vallerand, On passion for life activities:
     # seed --877073640  
   ```
   <div style="max-width: 70%; margin: 0 auto">
-    <img src="./assets/images/midjourney/fire_viking_citizen_3.png" />
+    <img src="./assets/images/midjourney/fire_viking_citizen_3.png" alt="flamesgaard citizen" />
   </div>
 
   ```sh
@@ -319,7 +312,7 @@ Using the Dualistic Model of Passion (Vallerand, On passion for life activities:
     # seed --1781832533  
   ```
   <div style="max-width: 70%; margin: 0 auto">
-    <img src="./assets/images/midjourney/fire_viking_citizen_4.png" />
+    <img src="./assets/images/midjourney/fire_viking_citizen_4.png" alt="flamesgaard citizen" />
   </div>
 
   ```sh
@@ -328,7 +321,7 @@ Using the Dualistic Model of Passion (Vallerand, On passion for life activities:
     # seed --3227382508  
   ```
   <div style="max-width: 70%; margin: 0 auto">
-    <img src="./assets/images/midjourney/fire_viking_citizen_5.png" />
+    <img src="./assets/images/midjourney/fire_viking_citizen_5.png" alt="flamesgaard citizen" />
   </div>
 
   ```sh
@@ -337,7 +330,7 @@ Using the Dualistic Model of Passion (Vallerand, On passion for life activities:
     # seed --2385038810  
   ```
   <div style="max-width: 70%; margin: 0 auto">
-    <img src="./assets/images/midjourney/fire_viking_citizen_6.png" />
+    <img src="./assets/images/midjourney/fire_viking_citizen_6.png" alt="flamesgaard citizen" />
   </div>
 
   ```sh
@@ -346,7 +339,7 @@ Using the Dualistic Model of Passion (Vallerand, On passion for life activities:
     # seed --2385038810  
   ```
   <div style="max-width: 70%; margin: 0 auto">
-    <img src="./assets/images/midjourney/fire_viking_citizen_7.png" />
+    <img src="./assets/images/midjourney/fire_viking_citizen_7.png" alt="flamesgaard citizen" />
   </div>
 </details>
 
@@ -359,11 +352,11 @@ Using the Dualistic Model of Passion (Vallerand, On passion for life activities:
     # seed --3616332674  
   ```
   <div style="max-width: 70%; margin: 0 auto">
-    <img src="./assets/images/midjourney/ice_viking_queen.png" />
+    <img src="./assets/images/midjourney/ice_viking_queen.png" alt="icegaard queen" />
   </div>
 
   <div style="max-width: 70%; margin: 0 auto">
-    <img src="./assets/images/midjourney/ice_viking_queen_closeup.png" />
+    <img src="./assets/images/midjourney/ice_viking_queen_closeup.png" alt="icegaard citizen" />
   </div>
 
   ```sh
@@ -372,7 +365,7 @@ Using the Dualistic Model of Passion (Vallerand, On passion for life activities:
     # seed --3094039146  
   ```
   <div style="max-width: 70%; margin: 0 auto">
-    <img src="./assets/images/midjourney/ice_viking_citizen_1.png" />
+    <img src="./assets/images/midjourney/ice_viking_citizen_1.png" alt="icegaard citizen" />
   </div>
 
   ```sh
@@ -381,7 +374,7 @@ Using the Dualistic Model of Passion (Vallerand, On passion for life activities:
     # seed --4132944021  
   ```
   <div style="max-width: 70%; margin: 0 auto">
-    <img src="./assets/images/midjourney/ice_viking_citizen_2.png" />
+    <img src="./assets/images/midjourney/ice_viking_citizen_2.png" alt="icegaard citizen" />
   </div>
 
   ```sh
@@ -390,7 +383,7 @@ Using the Dualistic Model of Passion (Vallerand, On passion for life activities:
     # seed --3088666809  
   ```
   <div style="max-width: 70%; margin: 0 auto">
-    <img src="./assets/images/midjourney/ice_viking_citizen_3.png" />
+    <img src="./assets/images/midjourney/ice_viking_citizen_3.png" alt="icegaard citizen" />
   </div>
 
   ```sh
@@ -399,7 +392,7 @@ Using the Dualistic Model of Passion (Vallerand, On passion for life activities:
     # seed --657639754  
   ```
   <div style="max-width: 70%; margin: 0 auto">
-    <img src="./assets/images/midjourney/ice_viking_citizen_4.png" />
+    <img src="./assets/images/midjourney/ice_viking_citizen_4.png" alt="icegaard citizen" />
   </div>
 </details>
 
