@@ -1,7 +1,7 @@
 <!-- RESOURCES COVER -->
 <div style="background-color: #F6F3FF; padding: 20px">
 <p align="center" style="margin-top: -15px">
-  <a href="https://github.com/HelviraG/resources.silent-figures">
+  <a href="https://github.com/HelviraG/conferences.resources/tree/main/%5BEN%5Dfiry_and_icy">
     <img style="border-radius: 8px" src="../assets/covers/firy_passion_vs_icy_reason_cover.png" alt="Logo" />
   </a>
 </p>
@@ -38,8 +38,8 @@
         </summary>
       <!-- MIDJOURNEY IMAGES SECTION -->
          <ul style="list-style-type: none">
-          <li><a href="https://github.com/HelviraG/conferences.resources/tree/main/firy_and_icy/sections/ImagesAssets.md#-planet-valhalla" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">📍 Planet Valhalla</a></li>
-          <li style="margin-top: 2px"><a href="https://github.com/HelviraG/conferences.resources/tree/main/firy_and_icy/sections/ImagesAssets.md#-the-vikings" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">📍 The Vikings</a></li>
+          <li><a href="https://github.com/HelviraG/conferences.resources/tree/main/%5BEN%5Dfiry_and_icy/sections/ImagesAssets.md#-planet-valhalla" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">📍 Planet Valhalla</a></li>
+          <li style="margin-top: 2px"><a href="https://github.com/HelviraG/conferences.resources/tree/main/%5BEN%5Dfiry_and_icy/sections/ImagesAssets.md#-the-vikings" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">📍 The Vikings</a></li>
         </ul>
       </details>
     </li>

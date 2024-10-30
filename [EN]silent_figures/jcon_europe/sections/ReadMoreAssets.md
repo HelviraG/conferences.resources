@@ -44,37 +44,37 @@
 
   <ol style="list-style-type: none; margin-top: 40px;">
     <li style="margin-top: 8px">
-    <a href="https://github.com/HelviraG/conferences.resources/blob/main/silent_figures/sections/ReadMoreAssets.md#-no-way-out-except-from-external-intervention-first-hand-accounts-of-autistic-inertia" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 ‘No Way Out Except From External Intervention’: First-Hand Accounts of Autistic Inertia</a>
+    <a href="https://github.com/HelviraG/conferences.resources/blob/main/%5BEN%5Dsilent_figures/sections/ReadMoreAssets.md#-no-way-out-except-from-external-intervention-first-hand-accounts-of-autistic-inertia" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 ‘No Way Out Except From External Intervention’: First-Hand Accounts of Autistic Inertia</a>
     </li>
     <li style="margin-top: 10px">
-    <a href="https://github.com/HelviraG/conferences.resources/blob/main/silent_figures/sections/ReadMoreAssets.md#-on-our-own-terms-emerging-autistic-culture" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 On our own terms: Emerging autistic culture</a>
+    <a href="https://github.com/HelviraG/conferences.resources/blob/main/%5BEN%5Dsilent_figures/sections/ReadMoreAssets.md#-on-our-own-terms-emerging-autistic-culture" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 On our own terms: Emerging autistic culture</a>
     </li>
     <li style="margin-top: 10px">
-    <a href="https://github.com/HelviraG/conferences.resources/blob/main/silent_figures/sections/ReadMoreAssets.md#-developing-employment-environments-where-individuals-with-asd-thrive-using-machine-learning-to-explore-employer-policies-and-practices" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 Developing Employment Environments Where Individuals with ASD Thrive: Using Machine Learning to Explore Employer Policies and Practices</a>
+    <a href="https://github.com/HelviraG/conferences.resources/blob/main/%5BEN%5Dsilent_figures/sections/ReadMoreAssets.md#-developing-employment-environments-where-individuals-with-asd-thrive-using-machine-learning-to-explore-employer-policies-and-practices" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 Developing Employment Environments Where Individuals with ASD Thrive: Using Machine Learning to Explore Employer Policies and Practices</a>
     </li>
     <li style="margin-top: 10px">
-    <a href="https://github.com/HelviraG/conferences.resources/blob/main/silent_figures/sections/ReadMoreAssets.md#-microsoft-autism-hiring-program---inclusive-hiring-for-people-with-disabilities" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 Microsoft Autism Hiring Program - Inclusive Hiring for People with Disabilities</a>
+    <a href="https://github.com/HelviraG/conferences.resources/blob/main/%5BEN%5Dsilent_figures/sections/ReadMoreAssets.md#-microsoft-autism-hiring-program---inclusive-hiring-for-people-with-disabilities" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 Microsoft Autism Hiring Program - Inclusive Hiring for People with Disabilities</a>
     </li>
     <li style="margin-top: 10px">
-    <a href="https://github.com/HelviraG/conferences.resources/blob/main/silent_figures/sections/ReadMoreAssets.md#--software-developers-and-aspergers-syndrome" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 Software Developers and Asperger's Syndrome</a>
+    <a href="https://github.com/HelviraG/conferences.resources/blob/main/%5BEN%5Dsilent_figures/sections/ReadMoreAssets.md#--software-developers-and-aspergers-syndrome" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 Software Developers and Asperger's Syndrome</a>
     </li>
     <li style="margin-top: 10px">
-    <a href="https://github.com/HelviraG/conferences.resources/blob/main/silent_figures/sections/ReadMoreAssets.md#-microsoft-inclusive-hiring-and-accessibility-boss-neil-barnett-talks-embracing-neurodiverse-workers-new-neurodiversity-career-connector-tool" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 Microsoft Inclusive Hiring And Accessibility Boss Neil Barnett Talks Embracing Neurodiverse Workers, New Neurodiversity Career Connector Tool</a>
+    <a href="https://github.com/HelviraG/conferences.resources/blob/main/%5BEN%5Dsilent_figures/sections/ReadMoreAssets.md#-microsoft-inclusive-hiring-and-accessibility-boss-neil-barnett-talks-embracing-neurodiverse-workers-new-neurodiversity-career-connector-tool" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 Microsoft Inclusive Hiring And Accessibility Boss Neil Barnett Talks Embracing Neurodiverse Workers, New Neurodiversity Career Connector Tool</a>
     </li>
     <li style="margin-top: 10px">
-    <a href="https://github.com/HelviraG/conferences.resources/blob/main/silent_figures/sections/ReadMoreAssets.md#-famous-computer-geniuses-with-aspergers" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 Famous computer geniuses with Asperger's</a>
+    <a href="https://github.com/HelviraG/conferences.resources/blob/main/%5BEN%5Dsilent_figures/sections/ReadMoreAssets.md#-famous-computer-geniuses-with-aspergers" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 Famous computer geniuses with Asperger's</a>
     </li>
     <li style="margin-top: 10px">
-    <a href="https://github.com/HelviraG/conferences.resources/blob/main/silent_figures/sections/ReadMoreAssets.md#-the-potential-genius-of-aspergers" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 The Potential Genius of Aspergers</a>
+    <a href="https://github.com/HelviraG/conferences.resources/blob/main/%5BEN%5Dsilent_figures/sections/ReadMoreAssets.md#-the-potential-genius-of-aspergers" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 The Potential Genius of Aspergers</a>
     </li>
     <li style="margin-top: 10px">
-    <a href="https://github.com/HelviraG/conferences.resources/blob/main/silent_figures/sections/ReadMoreAssets.md#-famous-people-with-high-functioning-autism" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 Famous people with high functioning autism</a>
+    <a href="https://github.com/HelviraG/conferences.resources/blob/main/%5BEN%5Dsilent_figures/sections/ReadMoreAssets.md#-famous-people-with-high-functioning-autism" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 Famous people with high functioning autism</a>
     </li>
     <li style="margin-top: 10px">
-    <a href="https://github.com/HelviraG/conferences.resources/blob/main/silent_figures/sections/ReadMoreAssets.md#-programming-a-great-hobby-for-an-autistic-child" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 Programming, A Great Hobby for an Autistic Child</a>
+    <a href="https://github.com/HelviraG/conferences.resources/blob/main/%5BEN%5Dsilent_figures/sections/ReadMoreAssets.md#-programming-a-great-hobby-for-an-autistic-child" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 Programming, A Great Hobby for an Autistic Child</a>
     </li>
     <li style="margin-top: 10px">
-    <a href="https://github.com/HelviraG/conferences.resources/blob/main/silent_figures/sections/ReadMoreAssets.md#-famous-autistic-people" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 Famous autistic people</a>
+    <a href="https://github.com/HelviraG/conferences.resources/blob/main/%5BEN%5Dsilent_figures/sections/ReadMoreAssets.md#-famous-autistic-people" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 Famous autistic people</a>
     </li>
   </ol>
 

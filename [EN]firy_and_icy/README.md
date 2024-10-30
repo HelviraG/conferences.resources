@@ -2,7 +2,7 @@
 
 <div style="background-color: #F6F3FF; padding: 20px" class="markdown-body">
 <p align="center" style="margin-top: -15px">
-  <a href="https://github.com/HelviraG/resources.silent-figures">
+  <a href="https://github.com/HelviraG/conferences.resources/tree/main/%5BEN%5Dfiry_and_icy">
     <img style="border-radius: 8px" src="assets/covers/firy_passion_vs_icy_reason_cover.png" alt="Firy Passion VS Icy Reason Resources Cover" />
   </a>
 </p>

@@ -1,7 +1,7 @@
 <!-- RESOURCES COVER -->
 <div style="background-color: #F6F3FF; padding: 20px">
 <p align="center" style="margin-top: -15px">
-  <a href="https://github.com/HelviraG/resources.silent-figures">
+  <a href="https://github.com/HelviraG/conferences.resources/tree/main/%5BEN%5Dfiry_and_icy">
     <img style="border-radius: 8px" src="../assets/covers/firy_passion_vs_icy_reason_cover.png" alt="Logo" />
   </a>
 </p>
@@ -31,19 +31,19 @@
 
  <ul style="list-style-type: none">
                 <li style="margin-top: 10px">
-                    <a href="https://github.com/HelviraG/conferences.resources/tree/main/firy_and_icy/sections/PaperAssets.md#%EF%B8%8F-divergence-between-employer-and-employee-understandings-of-passion-theory-and-implications-for-future-research" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 Divergence between employer and employee understandings of passion: Theory and implications for future research</a>
+                    <a href="https://github.com/HelviraG/conferences.resources/tree/main/%5BEN%5Dfiry_and_icy/sections/PaperAssets.md#%EF%B8%8F-divergence-between-employer-and-employee-understandings-of-passion-theory-and-implications-for-future-research" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 Divergence between employer and employee understandings of passion: Theory and implications for future research</a>
                 </li>
                 <li style="margin-top: 10px">
-                    <a href="https://github.com/HelviraG/conferences.resources/tree/main/firy_and_icy/sections/PaperAssets.md#%EF%B8%8F-understanding-contemporary-forms-of-exploitation-attributions-of-passion-serve-to-legitimize-the-poor-treatment-of-workers" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 Understanding Contemporary Forms of Exploitation: Attributions of Passion Serve to Legitimize the Poor Treatment of Workers</a>
+                    <a href="https://github.com/HelviraG/conferences.resources/tree/main/%5BEN%5Dfiry_and_icy/sections/PaperAssets.md#%EF%B8%8F-understanding-contemporary-forms-of-exploitation-attributions-of-passion-serve-to-legitimize-the-poor-treatment-of-workers" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 Understanding Contemporary Forms of Exploitation: Attributions of Passion Serve to Legitimize the Poor Treatment of Workers</a>
                 </li>
                 <li style="margin-top: 10px">
-                    <a href="https://github.com/HelviraG/conferences.resources/tree/main/firy_and_icy/sections/PaperAssets.md#%EF%B8%8F-the-relationship-between-deliberate-practice-and-performance-in-sports-a-meta-analysis" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 The Relationship Between Deliberate Practice and Performance in Sports: A Meta-Analysis</a>
+                    <a href="https://github.com/HelviraG/conferences.resources/tree/main/%5BEN%5Dfiry_and_icy/sections/PaperAssets.md#%EF%B8%8F-the-relationship-between-deliberate-practice-and-performance-in-sports-a-meta-analysis" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 The Relationship Between Deliberate Practice and Performance in Sports: A Meta-Analysis</a>
                 </li>
  <li style="margin-top: 8px">
-                <a href="https://github.com/HelviraG/conferences.resources/tree/main/firy_and_icy/sections/PaperAssets.md#%EF%B8%8F-eyes-wide-open-perceived-exploitation-and-its-consequences" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 Eyes Wide Open: Perceived Exploitation and Its Consequences</a>
+                <a href="https://github.com/HelviraG/conferences.resources/tree/main/%5BEN%5Dfiry_and_icy/sections/PaperAssets.md#%EF%B8%8F-eyes-wide-open-perceived-exploitation-and-its-consequences" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 Eyes Wide Open: Perceived Exploitation and Its Consequences</a>
               </li>
               <li style="margin-top: 8px">
-                <a href="https://github.com/HelviraG/conferences.resources/tree/main/firy_and_icy/sections/PaperAssets.md#%EF%B8%8F-%EF%B8%8F%EF%B8%8F-the-dualistic-model-of-passion-theory-research-and-implications-for-the-field-of-education" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 The Dualistic Model of Passion: Theory, Research, and Implications for the Field of Education</a>
+                <a href="https://github.com/HelviraG/conferences.resources/tree/main/%5BEN%5Dfiry_and_icy/sections/PaperAssets.md#%EF%B8%8F-%EF%B8%8F%EF%B8%8F-the-dualistic-model-of-passion-theory-research-and-implications-for-the-field-of-education" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 The Dualistic Model of Passion: Theory, Research, and Implications for the Field of Education</a>
               </li>
             </ul>
 
