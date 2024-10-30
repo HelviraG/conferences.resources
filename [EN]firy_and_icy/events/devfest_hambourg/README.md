@@ -29,37 +29,37 @@
       <!-- SCIENTIFIC PRESS SECTION -->
       <details>
         <summary>
-          <a href="https://github.com/HelviraG/conferences.resources/tree/main%5BEN%5Dfiry_and_icy/sections/PaperAssets.md#-paper-assets  " style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">📰 Paper Assets</a>
+          <a href="https://github.com/HelviraG/conferences.resources/tree/main/%5BEN%5Dfiry_and_icy/sections/PaperAssets.md#-paper-assets  " style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">📰 Paper Assets</a>
         </summary>
           <ul style="list-style-type: none">
             <!-- USED DURING PRESENTATION SECTION -->
             <details style="margin-top: 20px">
             <summary>
-              <a href="https://github.com/HelviraG/conferences.resources/tree/main%5BEN%5Dfiry_and_icy/sections/PaperAssets.md#-paper-assets" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">Seen through the presentation</a>
+              <a href="https://github.com/HelviraG/conferences.resources/tree/main/%5BEN%5Dfiry_and_icy/sections/PaperAssets.md#-paper-assets" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">Seen through the presentation</a>
             </summary>
             <ul style="list-style-type: none">
                 <li style="margin-top: 10px">
-                    <a href="https://github.com/HelviraG/conferences.resources/tree/main%5BEN%5Dfiry_and_icy/sections/PaperAssets.md#%EF%B8%8F-divergence-between-employer-and-employee-understandings-of-passion-theory-and-implications-for-future-research" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 Divergence between employer and employee understandings of passion: Theory and implications for future research</a>
+                    <a href="https://github.com/HelviraG/conferences.resources/tree/main/%5BEN%5Dfiry_and_icy/sections/PaperAssets.md#%EF%B8%8F-divergence-between-employer-and-employee-understandings-of-passion-theory-and-implications-for-future-research" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 Divergence between employer and employee understandings of passion: Theory and implications for future research</a>
                 </li>
                 <li style="margin-top: 10px">
-                    <a href="https://github.com/HelviraG/conferences.resources/tree/main%5BEN%5Dfiry_and_icy/sections/PaperAssets.md#%EF%B8%8F-understanding-contemporary-forms-of-exploitation-attributions-of-passion-serve-to-legitimize-the-poor-treatment-of-workers" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 Understanding Contemporary Forms of Exploitation: Attributions of Passion Serve to Legitimize the Poor Treatment of Workers</a>
+                    <a href="https://github.com/HelviraG/conferences.resources/tree/main/%5BEN%5Dfiry_and_icy/sections/PaperAssets.md#%EF%B8%8F-understanding-contemporary-forms-of-exploitation-attributions-of-passion-serve-to-legitimize-the-poor-treatment-of-workers" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 Understanding Contemporary Forms of Exploitation: Attributions of Passion Serve to Legitimize the Poor Treatment of Workers</a>
                 </li>
                 <li style="margin-top: 10px">
-                    <a href="https://github.com/HelviraG/conferences.resources/tree/main%5BEN%5Dfiry_and_icy/sections/PaperAssets.md#%EF%B8%8F-the-relationship-between-deliberate-practice-and-performance-in-sports-a-meta-analysis" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 The Relationship Between Deliberate Practice and Performance in Sports: A Meta-Analysis</a>
+                    <a href="https://github.com/HelviraG/conferences.resources/tree/main/%5BEN%5Dfiry_and_icy/sections/PaperAssets.md#%EF%B8%8F-the-relationship-between-deliberate-practice-and-performance-in-sports-a-meta-analysis" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 The Relationship Between Deliberate Practice and Performance in Sports: A Meta-Analysis</a>
                 </li>
             </ul>
             </details>
             <!-- MORE TO READ SECTION -->
             <details style="margin-top: 20px">
             <summary>
-              <a href="https://github.com/HelviraG/conferences.resources/tree/main%5BEN%5Dfiry_and_icy/sections/PaperAssets.md#-read-more" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🔎 More to read</a>
+              <a href="https://github.com/HelviraG/conferences.resources/tree/main/%5BEN%5Dfiry_and_icy/sections/PaperAssets.md#-read-more" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🔎 More to read</a>
             </summary>
             <ul style="list-style-type: none">
               <li style="margin-top: 8px">
-                <a href="https://github.com/HelviraG/conferences.resources/tree/main%5BEN%5Dfiry_and_icy/sections/PaperAssets.md#%EF%B8%8F-eyes-wide-open-perceived-exploitation-and-its-consequences" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 Eyes Wide Open: Perceived Exploitation and Its Consequences</a>
+                <a href="https://github.com/HelviraG/conferences.resources/tree/main/%5BEN%5Dfiry_and_icy/sections/PaperAssets.md#%EF%B8%8F-eyes-wide-open-perceived-exploitation-and-its-consequences" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 Eyes Wide Open: Perceived Exploitation and Its Consequences</a>
               </li>
               <li style="margin-top: 8px">
-                <a href="https://github.com/HelviraG/conferences.resources/tree/main%5BEN%5Dfiry_and_icy/sections/PaperAssets.md#%EF%B8%8F-%EF%B8%8F%EF%B8%8F-the-dualistic-model-of-passion-theory-research-and-implications-for-the-field-of-education" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 The Dualistic Model of Passion: Theory, Research, and Implications for the Field of Education</a>
+                <a href="https://github.com/HelviraG/conferences.resources/tree/main/%5BEN%5Dfiry_and_icy/sections/PaperAssets.md#%EF%B8%8F-%EF%B8%8F%EF%B8%8F-the-dualistic-model-of-passion-theory-research-and-implications-for-the-field-of-education" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🧷 The Dualistic Model of Passion: Theory, Research, and Implications for the Field of Education</a>
               </li>
             </ul>
             </details>
@@ -70,17 +70,17 @@
     <li style="margin-top: 20px">
       <details style="margin-top: 10px">
       <summary>
-        <a href="https://github.com/HelviraG/conferences.resources/tree/main%5BEN%5Dfiry_and_icy/sections/ImagesAssets.md#%EF%B8%8F-images-assets" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🎞️ Images Assets</a>
+        <a href="https://github.com/HelviraG/conferences.resources/tree/main/%5BEN%5Dfiry_and_icy/sections/ImagesAssets.md#%EF%B8%8F-images-assets" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">🎞️ Images Assets</a>
       </summary>
       <!-- MIDJOURNEY IMAGES SECTION -->
       <ul style="list-style-type: none">
         <details style="margin-top: 10px">
         <summary>
-          <a href="https://github.com/HelviraG/conferences.resources/tree/main%5BEN%5Dfiry_and_icy/sections/ImagesAssets.md#-midjourney-images" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">👾 Midjourney Images</a>
+          <a href="https://github.com/HelviraG/conferences.resources/tree/main/%5BEN%5Dfiry_and_icy/sections/ImagesAssets.md#-midjourney-images" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">👾 Midjourney Images</a>
         </summary>
         <ul style="list-style-type: none; margin-top: 6px">
-          <li><a href="https://github.com/HelviraG/conferences.resources/tree/main%5BEN%5Dfiry_and_icy/sections/ImagesAssets.md#-planet-valhalla" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">📍 Planet Valhalla</a></li>
-          <li style="margin-top: 2px"><a href="https://github.com/HelviraG/conferences.resources/tree/main%5BEN%5Dfiry_and_icy/sections/ImagesAssets.md#-the-vikings" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">📍 The Vikings</a></li>
+          <li><a href="https://github.com/HelviraG/conferences.resources/tree/main/%5BEN%5Dfiry_and_icy/sections/ImagesAssets.md#-planet-valhalla" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">📍 Planet Valhalla</a></li>
+          <li style="margin-top: 2px"><a href="https://github.com/HelviraG/conferences.resources/tree/main/%5BEN%5Dfiry_and_icy/sections/ImagesAssets.md#-the-vikings" style="color: black" onmouseover="this.style.fontWeight='700';this.style.color='#6A42AB';" onmouseout="this.style.fontWeight='';this.style.color='black';">📍 The Vikings</a></li>
         </ul>
         </details>
       </ul>
