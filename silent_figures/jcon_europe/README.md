@@ -13,7 +13,7 @@
     <br />
     <a href="https://helvirag.github.io" style="padding: 6px 12px; color: black" onmouseover="this.style.color='purple'; this.style.fontWeight=''" onmouseleave="this.style.color='black'">🌐 Website</a>
     ·
-    <a href="https://linkedin.com/helvira-dev" style="padding: 6px 12px; color: black" onmouseover="this.style.color='purple';fontSize=''" onmouseleave="this.style.color='black'; this.style.fontWeight='normal'; fontSize='12px'"><img src="assetsmages/linkedin.png" width="15px"/> Linkedin</a>
+    <a href="https://linkedin.com/helvira-dev" style="padding: 6px 12px; color: black" onmouseover="this.style.color='purple';fontSize=''" onmouseleave="this.style.color='black'; this.style.fontWeight='normal'; fontSize='12px'"><img src="assets/linkedin.png" width="15px"/> Linkedin</a>
     ·
     <a href="https://twitter.com/helvira_g" style="padding: 6px 12px; color: black" onmouseover="this.style.color='purple';" onmouseleave="this.style.color='black'">Twitter/X</a>
     ·
@@ -192,16 +192,20 @@
 
  #### 💽 Presentation Slides
 
-<img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek%20(1).png" alt="Logo" />
-
+<details>
+    <summary>Check the slides 🤨🧐</summary>
+    <ul>
+        <li>
+            <img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek%20(1).png" alt="Logo" />
+                
 <img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek%20(2).png" alt="Logo" />
-
+                
 <img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek%20(3).png" alt="Logo" />
-
+                
 <img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek%20(4).png" alt="Logo" />
-
+                
 <img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek%20(5).png" alt="Logo" />
-
+                
 <img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek%20(6).png" alt="Logo" />
 
 <img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek%20(7).png" alt="Logo" />
@@ -215,7 +219,7 @@
 <img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek%20(11).png" alt="Logo" />
 
 <img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek%20(12).png" alt="Logo" />
-
+                
 <img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek%20(13).png" alt="Logo" />
 
 <img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek%20(14).png" alt="Logo" />
@@ -233,7 +237,7 @@
 <img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek%20(20).png" alt="Logo" />
 
 <img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek%20(21).png" alt="Logo" />
-
+                
 <img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek%20(22).png" alt="Logo" />
 
 <img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek%20(23).png" alt="Logo" />
@@ -265,7 +269,10 @@
 <img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek%20(36).png" alt="Logo" />
 
 <img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek%20(37).png" alt="Logo" />
-
+                
 <img style="border-radius: 8px" src="assets/images/sneak_peek/sneak_peek%20(38).png" alt="Logo" />
 
+            </li>
+        </ul>
+    </details>
 </div>

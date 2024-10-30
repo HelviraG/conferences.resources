@@ -13,7 +13,7 @@
     <br />
     <a href="https://helvirag.github.io" style="padding: 6px 12px; color: black" onmouseover="this.style.color='purple'; this.style.fontWeight=''" onmouseleave="this.style.color='black'">🌐 Website</a>
     ·
-    <a href="https://linkedin.com/helvira-dev" style="padding: 6px 12px; color: black" onmouseover="this.style.color='purple';fontSize=''" onmouseleave="this.style.color='black'; this.style.fontWeight='normal'; fontSize='12px'"><img src="assetsmages/linkedin.png" width="15px"/> Linkedin</a>
+    <a href="https://linkedin.com/helvira-dev" style="padding: 6px 12px; color: black" onmouseover="this.style.color='purple';fontSize=''" onmouseleave="this.style.color='black'; this.style.fontWeight='normal'; fontSize='12px'"><img src="assets/linkedin.png" width="15px"/> Linkedin</a>
     ·
     <a href="https://twitter.com/helvira_g" style="padding: 6px 12px; color: black" onmouseover="this.style.color='purple';" onmouseleave="this.style.color='black'">Twitter/X</a>
     ·
@@ -192,6 +192,10 @@
 
  #### 💽 Presentation Slides
 
+<details>
+    <summary>Check the slides 🤨🧐</summary>
+    <ul>
+        <li>
 <img style="border-radius: 8px" src="assets/slides/slide_2.png" alt="slides method conference" />
 
 <img style="border-radius: 8px" src="assets/slides/slide_4.png" alt="slides method conference" />
@@ -269,5 +273,7 @@
 <img style="border-radius: 8px" src="assets/slides/slide_54.png" alt="slides method conference" />
 
 <img style="border-radius: 8px" src="assets/slides/slide_55.png" alt="slides method conference" />
-
+</li>
+</ul>
+</details>
 </div>
