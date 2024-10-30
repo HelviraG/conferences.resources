@@ -6,7 +6,7 @@
   </a>
 </p>
 
-  <p style="text-align:center">
+  <p align="center">
     All the resources you need to go further and beyond after the conference 😉!
     <br />
     <br />
