@@ -3,7 +3,7 @@
 <div style="background-color: #F6F3FF; padding: 20px" class="markdown-body">
 <p align="center" style="margin-top: -15px">
   <a href="https://github.com/HelviraG/resources.silent-figures">
-    <img style="border-radius: 8px" src="./helvira_g_talks_cover.png" alt="Helvira G Talks Cover" />
+    <img style="border-radius: 8px" src="helvira_g_talks_cover.jpg" alt="Helvira G Talks Cover" />
   </a>
 </p>
 
