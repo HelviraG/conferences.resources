@@ -1,7 +1,7 @@
 <!-- RESOURCES COVER -->
 <div style="background-color: #F6F3FF; padding: 20px" class="markdown-body">
 <p style="margin-top: -15px">
-  <a href="https://github.com/HelviraG/conferences.resources/tree/main/%5BEN%5Dtech_skills_expiration/events/api_platform_conference">
+  <a href="https://github.com/HelviraG/conferences.resources/blob/main/%5BEN%5Dtech_skills_expiration/events/api_platform_conference/README.md">
     <img style="border-radius: 8px" src="../../assets/images/covers/api_platform_con_cover.png" alt="Help! My Tech Skills Have An Expiration Date - Api Platform Conference" />
   </a>
 </p>

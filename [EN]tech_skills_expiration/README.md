@@ -2,7 +2,7 @@
 
 <div style="background-color: #F6F3FF; padding: 20px" class="markdown-body">
 <p align="center" style="margin-top: -15px">
-  <a href="https://github.com/HelviraG/conferences.resources/tree/main/%5BEN%5Dtech_skills_expiration">
+  <a href="https://github.com/HelviraG/conferences.resources/blob/main/%5BEN%5Dtech_skills_expiration/README.md">
     <img style="border-radius: 8px" src="assets/images/covers/cover.jpg" alt="Help! My Tech Skills Have an Expiration Date Resources Cover" />
   </a>
 </p>
