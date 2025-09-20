@@ -6,7 +6,7 @@
   </a>
 </p>
 
-  <p>
+  <p align="center">
     All the resources you need to go further and beyond after the conference 😉!
     <br />
     <br />
@@ -15,6 +15,8 @@
     <a href="https://linkedin.com/helvira-dev" style="padding: 6px 12px; color: black" onmouseover="this.style.color='purple';fontSize=''" onmouseleave="this.style.color='black'; this.style.fontWeight='normal'; fontSize='12px'"><img src="./assets/images/linkedin.png" width="15px" alt="linkedin logo"/> Linkedin</a>
     ·
     <a href="https://twitter.com/helvira_g" style="padding: 6px 12px; color: black" onmouseover="this.style.color='purple';" onmouseleave="this.style.color='black'">Twitter/X</a>
+    ·
+    <a href="https://bsky.app/profile/helvira.bsky.social" style="padding: 6px 12px; color: black" onmouseover="this.style.color='purple';" onmouseleave="this.style.color='black'">Bluesky</a>
     ·
     <a href="https://www.buymeacoffee.com/helvira" style="padding: 6px 12px; color: black" onmouseover="this.style.color='purple';" onmouseleave="this.style.color='black'">🥤 Buy me a coffee</a>
   </p>
