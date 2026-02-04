@@ -151,12 +151,6 @@ If you’ve ever felt like you’re one npm install away from a full existential
             <img style="border-radius: 8px" src="../../assets/slides/v2/40.png" alt="Help! My Tech Skills Have An Expiration Date - Swetugg" />
             <img style="border-radius: 8px" src="../../assets/slides/v2/41.png" alt="Help! My Tech Skills Have An Expiration Date - Swetugg" />
             <img style="border-radius: 8px" src="../../assets/slides/v2/42.png" alt="Help! My Tech Skills Have An Expiration Date - Swetugg" />
-            <img style="border-radius: 8px" src="../../assets/slides/v2/42.png" alt="Help! My Tech Skills Have An Expiration Date - Swetugg" />
-            <img style="border-radius: 8px" src="../../assets/slides/v2/42.png" alt="Help! My Tech Skills Have An Expiration Date - Swetugg" />
-            <img style="border-radius: 8px" src="../../assets/slides/v2/42.png" alt="Help! My Tech Skills Have An Expiration Date - Swetugg" />
-            <img style="border-radius: 8px" src="../../assets/slides/v2/42.png" alt="Help! My Tech Skills Have An Expiration Date - Swetugg" />
-            <img style="border-radius: 8px" src="../../assets/slides/v2/42.png" alt="Help! My Tech Skills Have An Expiration Date - Swetugg" />
-            <img style="border-radius: 8px" src="../../assets/slides/v2/42.png" alt="Help! My Tech Skills Have An Expiration Date - Swetugg" />
             <img style="border-radius: 8px" src="../../assets/slides/v2/43.png" alt="Help! My Tech Skills Have An Expiration Date - Swetugg" />
             <img style="border-radius: 8px" src="../../assets/slides/v2/44.png" alt="Help! My Tech Skills Have An Expiration Date - Swetugg" />
             <img style="border-radius: 8px" src="../../assets/slides/v2/45.png" alt="Help! My Tech Skills Have An Expiration Date - Swetugg" />
